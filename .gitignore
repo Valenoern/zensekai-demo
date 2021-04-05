@@ -1,7 +1,0 @@
-doc/*
-build/*
-dist/*
-node_modules/*
-index.html
-.directory
-*~
